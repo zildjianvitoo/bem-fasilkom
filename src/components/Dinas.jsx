@@ -20,7 +20,7 @@ const Dinas = () => (
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
         Silahkan pilih sendiri <br className="sm:block hidden" /> Dinas
-        kesukaanmu.
+        kesukaanmu ya.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Kami memberikan Anda kebebasan dalam hal penentuan Dinas. Bisa memilih
